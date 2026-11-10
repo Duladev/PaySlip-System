@@ -1,0 +1,8 @@
+{
+  "xlsx": "C:/Users/dularad/source/repos/PaySlip-System/employees_template.xlsx",
+  "dir": "",
+  "sender": "diteqlat@gmail.com",
+  "name": "HR",
+  "subject": "Your salary slip - Employee {emp}",
+  "body": "Hello,\n\nPlease find your salary slip attached.\n\nRegards,\nHR"
+}
